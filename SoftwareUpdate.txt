@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add PR Summary step to Ultralytics Actions (#7675)
