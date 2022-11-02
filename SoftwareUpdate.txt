@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
