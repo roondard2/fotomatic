@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Resize angle, count, and stage on keypoint number change (#7598)
