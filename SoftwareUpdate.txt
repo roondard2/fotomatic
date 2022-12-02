@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Merge pull request #22 from SkalskiP/patch-1
