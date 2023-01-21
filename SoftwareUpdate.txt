@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update Docs Home and Neural Magic pages (#7243)
