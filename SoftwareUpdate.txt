@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
