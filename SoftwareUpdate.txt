@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
