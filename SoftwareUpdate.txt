@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Fix TypeError in check_cfg() (#9245)
