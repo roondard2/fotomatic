@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add PaddlePaddle Docs Integrations Page (#8858)
