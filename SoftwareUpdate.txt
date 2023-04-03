@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Updating a typo on paddlepaddle.md (#9108)
