@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
