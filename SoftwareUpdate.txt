@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
