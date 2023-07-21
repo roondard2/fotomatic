@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Update pyproject.toml and Docs (#7274)
