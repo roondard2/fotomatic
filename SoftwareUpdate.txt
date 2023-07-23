@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add PR Summary step to Ultralytics Actions (#7675)
