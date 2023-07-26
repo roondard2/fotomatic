@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Replace onnx2tf usage from CLI to Python (#8429)
