@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
