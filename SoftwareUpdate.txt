@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Update H1 in Explorer API docs (#7813)
