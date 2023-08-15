@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Compress docs images (#8124)
