@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Mkdocs annotations fixes (#7600)
