@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
