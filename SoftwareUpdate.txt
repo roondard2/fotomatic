@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
