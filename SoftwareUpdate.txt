@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add PaddlePaddle Docs Integrations Page (#8858)
