@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix PNNX ubuntu -> linux bug (#7050)
