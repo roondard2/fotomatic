@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Update Twitter icon in Docs (#7711)
